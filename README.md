@@ -15,9 +15,9 @@
 * Density Plot
 * Joint Distribution Plot
 
-I have also covered some of the things that can make your plot look nicer
-Color palettes.
-Seaborn themes which can be done using set style.
+I have also covered some of the things that can make your plot look nicer<br>
+Color palettes.<br>
+Seaborn themes which can be done using set style. <br>
 
 Although there are many types of graphs that can be plotted with seaborn but here I have mentioned most of the commonly used.
 In case of any doubt please leave a comment.
